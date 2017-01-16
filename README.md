@@ -1,6 +1,6 @@
 # CellArchitect
 
-Version: 1.07 	
+Version: 1.15	
 
 The Silke Robatzek Group
 The Sainsbury Laboratory, Norwich Research Park, Norwich, UK
